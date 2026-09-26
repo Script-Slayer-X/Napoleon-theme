@@ -1,0 +1,10 @@
+{
+  "name": "Napoleon Imperial Font",
+  "description": "Cinzel — an elegant imperial-style typeface for the Napoleon Imperial theme.",
+  "authors": [
+    {
+      "name": "Yonathan"
+    }
+  ],
+  "font": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel-Regular.ttf"
+}
