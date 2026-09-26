@@ -1,0 +1,266 @@
+{
+  "name": "Napoleon Imperial",
+  "description": "French Empire-inspired dark Revenge theme \u2014 midnight navy, antique gold, burgundy and parchment.",
+  "authors": [
+    {
+      "name": "Yonatan"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#F3E8CF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B7AC93"
+    ],
+    "TEXT_NORMAL": [
+      "#E6DDC8"
+    ],
+    "TEXT_MUTED": [
+      "#77715F"
+    ],
+    "TEXT_LINK": [
+      "#D9B957"
+    ],
+    "TEXT_DANGER": [
+      "#C44B55"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#AFA58E"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#D2B75B"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E5CA70"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5C574B"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0D121A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#090D14"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#111925"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#151F2D"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#29364A"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#111925"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0D121A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#090D14"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0A0F17"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#C8A95112"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#C8A95114"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#C8A9512A"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#C8A95134"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#C8A95122"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#918875"
+    ],
+    "CHANNEL_ICON": [
+      "#B8AC91"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#172131"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#706A5B"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0D121A"
+    ],
+    "KEYBOARD": [
+      "#090D14"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#5B5139"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#5B5139"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#0D121A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#29364A"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#182333"
+    ],
+    "MENTION_BACKGROUND": [
+      "#8A26352A"
+    ],
+    "MENTION_FOREGROUND": [
+      "#E0C36A"
+    ],
+    "INPUT_BACKGROUND": [
+      "#172131"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#706A5B"
+    ],
+    "POPOVER_BACKGROUND": [
+      "#111925"
+    ],
+    "MODAL_BACKGROUND": [
+      "#111925"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#0D121A"
+    ],
+    "TOOLTIP_BACKGROUND": [
+      "#29364A"
+    ],
+    "ICON_PRIMARY": [
+      "#E6DDC8"
+    ],
+    "ICON_SECONDARY": [
+      "#AFA58E"
+    ],
+    "ICON_MUTED": [
+      "#625D50"
+    ],
+    "BORDER_FAINT": [
+      "#C8A95116"
+    ],
+    "BORDER_SUBTLE": [
+      "#C8A95124"
+    ],
+    "BORDER_STRONG": [
+      "#806B2E"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#D9B957"
+    ],
+    "CONTROL_BRAND_FOREGROUND_NEW": [
+      "#D9B957"
+    ],
+    "REDESIGN_CHAT_MENTION_BACKGROUND": [
+      "#8A26352A"
+    ],
+    "REDESIGN_CHAT_REPLY_BACKGROUND": [
+      "#C8A95114"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#172131"
+    ],
+    "REDESIGN_CHAT_INPUT_PLACEHOLDER_TEXT": [
+      "#706A5B"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#202C3D"
+    ],
+    "BUTTON_POSITIVE_BACKGROUND": [
+      "#4C7D5D"
+    ],
+    "BUTTON_POSITIVE_BACKGROUND_ACTIVE": [
+      "#3B6249"
+    ],
+    "BUTTON_POSITIVE_TEXT": [
+      "#F3E8CF"
+    ],
+    "BUTTON_DANGER_BACKGROUND": [
+      "#8A2635"
+    ],
+    "BUTTON_DANGER_BACKGROUND_ACTIVE": [
+      "#641A27"
+    ],
+    "BUTTON_DANGER_TEXT": [
+      "#F3E8CF"
+    ],
+    "FOCUS_PRIMARY": [
+      "#D9B957"
+    ],
+    "STATUS_ONLINE": [
+      "#5C946E"
+    ],
+    "STATUS_IDLE": [
+      "#D1AA4F"
+    ],
+    "STATUS_DND": [
+      "#B8424D"
+    ],
+    "STATUS_OFFLINE": [
+      "#62605A"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F3E8CF",
+    "PRIMARY_200": "#CFC5AD",
+    "PRIMARY_300": "#AFA58E",
+    "PRIMARY_360": "#918875",
+    "PRIMARY_400": "#77715F",
+    "PRIMARY_500": "#29364A",
+    "PRIMARY_530": "#202C3D",
+    "PRIMARY_560": "#182333",
+    "PRIMARY_600": "#151F2D",
+    "PRIMARY_630": "#111925",
+    "PRIMARY_660": "#0D121A",
+    "PRIMARY_700": "#090D14",
+    "PRIMARY_800": "#070A0F",
+    "BRAND_260": "#E5CA70",
+    "BRAND_300": "#D9B957",
+    "BRAND_330": "#C8A951",
+    "BRAND_360": "#A98B3E",
+    "BRAND_500": "#806B2E",
+    "BRAND_560": "#5F4F24",
+    "BRAND_600": "#453919",
+    "WHITE_500": "#F3E8CF",
+    "BLACK_500": "#090D14",
+    "RED_260": "#D86A73",
+    "RED_300": "#C44B55",
+    "RED_330": "#B8424D",
+    "RED_400": "#8A2635",
+    "RED_430": "#741F2D",
+    "RED_500": "#641A27",
+    "RED_530": "#4B141E",
+    "YELLOW_300": "#E0C36A",
+    "YELLOW_360": "#D1AA4F",
+    "YELLOW_400": "#B88E36",
+    "YELLOW_500": "#806B2E",
+    "GREEN_300": "#78AA85",
+    "GREEN_360": "#5C946E",
+    "GREEN_400": "#4C7D5D",
+    "GREEN_430": "#3B6249",
+    "GREEN_500": "#294A36",
+    "BLUE_300": "#7189AF",
+    "BLUE_360": "#58729A",
+    "BLUE_400": "#405A7D",
+    "BLUE_500": "#293F5E"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jacques-Louis_David_-_Napoleon_Crossing_the_Alps_-_Schloss_Charlottenburg.jpg",
+    "alpha": 0.13,
+    "color": "#090D14"
+  }
+}
