@@ -257,10 +257,12 @@
     "BLUE_400": "#405A7D",
     "BLUE_500": "#293F5E"
   },
- "background": {
-  "blur": 0,
-  "url": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/main/assets/Napoleon-riding.jpg"
-  "alpha": 0.13,
-  "color": "#090D14"
+
+    "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/main/assets/Napoleon-riding.jpg",
+    "alpha": 0.13,
+    "color": "#090D14"
+  }
 }
 }
