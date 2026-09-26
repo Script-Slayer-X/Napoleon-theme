@@ -1,10 +1,18 @@
 {
-  "name": "Napoleon Imperial Font",
-  "description": "Cinzel — an elegant imperial-style typeface for the Napoleon Imperial theme.",
-  "authors": [
-    {
-      "name": "Yonathan"
-    }
-  ],
-  "font": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel-Regular.ttf"
+  "spec": 1,
+  "name": "Napoleon Imperial — Cinzel",
+  "description": "Cinzel Bold 700 font pack for the Napoleon Imperial theme.",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/refs/heads/main/fonts/Cinzel%20Bold%20700.ttf"
+  }
 }
