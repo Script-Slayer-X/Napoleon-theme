@@ -252,15 +252,15 @@
     "GREEN_400": "#4C7D5D",
     "GREEN_430": "#3B6249",
     "GREEN_500": "#294A36",
-    "BLUE_300": "#7189AF",
+    "BLUE_300": "#7189AF",        
     "BLUE_360": "#58729A",
     "BLUE_400": "#405A7D",
     "BLUE_500": "#293F5E"
   },
-  "background": {
-    "blur": 0,
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jacques-Louis_David_-_Napoleon_Crossing_the_Alps_-_Schloss_Charlottenburg.jpg",
-    "alpha": 0.13,
-    "color": "#090D14"
-  }
+ "background": {
+  "blur": 0,
+  "url": "https://raw.githubusercontent.com/Script-Slayer-X/Napoleon-theme/main/assets/Napoleon-riding.jpg",
+  "alpha": 0.13,
+  "color": "#090D14"
+}
 }
